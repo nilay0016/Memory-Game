@@ -1,0 +1,29 @@
+#container {
+	position: relative;
+	top: 30px;
+	font-size: 0;
+	margin:auto;
+	height:600px;
+	width:600px;
+	padding: 0;
+	border: none;
+}
+
+.grid {
+	margin:2px;
+	padding:0px;
+	/*outline:5px solid white;*/
+	background-color: #696969;
+	display:inline-block;
+}
+
+.circle {
+  height: 50%;
+  width: 50%;
+  position: relative;
+  left: 40px;
+  top: 40px;
+  background-color: white;
+  border-radius: 50%;
+
+}
